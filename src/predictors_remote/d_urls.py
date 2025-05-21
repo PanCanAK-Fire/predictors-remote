@@ -129,7 +129,7 @@ TELECONNECTIONURLS = [
         "shortname": "NPI",
         "format": "YrMnth",
         "skipfooter": None,
-        "skipentry": True,
+        "skipentry": False,
         "URL": "https://climatedataguide.ucar.edu/sites/default/files/2024-04/npindex_monthly.txt"
         # "URL": "https://psl.noaa.gov/data/correlation/np.data"   # only to 2020
     },
