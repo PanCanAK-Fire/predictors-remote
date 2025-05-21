@@ -1,0 +1,20 @@
+# project related
+data/predictors_raw/     
+data/incoming/          
+data/working/         
+
+# pixi environments
+.pixi
+*.egg-info
+
+# editing / system
+*DS_Store
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
