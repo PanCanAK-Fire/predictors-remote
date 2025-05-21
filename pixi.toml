@@ -9,9 +9,7 @@ version = "0.1.0"
 
 [dependencies]
 python = ">=3.13.3,<3.14"
-requests = ">=2.32.3,<3"
 pandas = ">=2.2.3,<3"
-xarray = ">=2025.4.0,<2026"
 numpy = ">=2.2.6,<3"
 scipy = ">=1.15.2,<2"
 matplotlib = ">=3.10.3,<4"
